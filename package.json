@@ -1,0 +1,23 @@
+{
+  "name": "nytimes",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cssnano": "^7.0.6",
+    "postcss": "^8.4.47"
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
